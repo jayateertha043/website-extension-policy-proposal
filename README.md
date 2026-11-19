@@ -148,6 +148,10 @@ This note presents a vendor-neutral description of that scenario and a proposed
 browser defense. The proposed header and enforcement model are separate from
 the referenced talk; no endorsement by its speakers is implied.
 
+## Discussion Forums
+W3C Extensions: https://github.com/w3c/webextensions/issues/1204
+WICG: https://github.com/WICG/proposals/issues/321
+
 ## Feedback welcome
 
 Discussion is welcome on enforcement gaps, extension identity, user control,
